@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304432761007",
+    "project_id": "brief-a46a8",
+    "storage_bucket": "brief-a46a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304432761007:android:c1f55273e14503ecd22c5a",
+        "android_client_info": {
+          "package_name": "com.simplone.line.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304432761007-t4378gp54a52546f6f5p2q1ss1eaooke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0aZvo9gJznUkX6Ihwe2yLq1ZLdQRCOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304432761007-t4378gp54a52546f6f5p2q1ss1eaooke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
